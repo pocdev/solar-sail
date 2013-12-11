@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Proof_of_Concept/SolarSail/svn/!svn/ver/6/Assets/Qualcomm%20Augmented%20Reality/Shaders
+END
+RenderVideoBackground.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Proof_of_Concept/SolarSail/svn/!svn/ver/1/Assets/Qualcomm%20Augmented%20Reality/Shaders/RenderVideoBackground.shader.meta
+END
+Text3D.shader
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/SolarSail/svn/!svn/ver/6/Assets/Qualcomm%20Augmented%20Reality/Shaders/Text3D.shader
+END
+DepthMask.shader
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/SolarSail/svn/!svn/ver/6/Assets/Qualcomm%20Augmented%20Reality/Shaders/DepthMask.shader
+END
+Text3D.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Proof_of_Concept/SolarSail/svn/!svn/ver/6/Assets/Qualcomm%20Augmented%20Reality/Shaders/Text3D.shader.meta
+END
+DepthMask.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Proof_of_Concept/SolarSail/svn/!svn/ver/1/Assets/Qualcomm%20Augmented%20Reality/Shaders/DepthMask.shader.meta
+END
+RenderVideoBackground.shader
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Proof_of_Concept/SolarSail/svn/!svn/ver/6/Assets/Qualcomm%20Augmented%20Reality/Shaders/RenderVideoBackground.shader
+END

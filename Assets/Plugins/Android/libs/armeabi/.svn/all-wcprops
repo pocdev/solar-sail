@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/SolarSail/svn/!svn/ver/1/Assets/Plugins/Android/libs/armeabi
+END
+libQCAR.so.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/SolarSail/svn/!svn/ver/1/Assets/Plugins/Android/libs/armeabi/libQCAR.so.meta
+END
+libQCARWrapper.so.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/SolarSail/svn/!svn/ver/1/Assets/Plugins/Android/libs/armeabi/libQCARWrapper.so.meta
+END
+libQCARUnityPlayer.so.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/SolarSail/svn/!svn/ver/1/Assets/Plugins/Android/libs/armeabi/libQCARUnityPlayer.so.meta
+END
